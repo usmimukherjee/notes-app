@@ -90,12 +90,4 @@ yargs.parse()//console.log(yargs.argv)
 
 
 
-//process.argv for getting input from users
-//console.log(chalk.red(notes));
-//console.log(chalk.green.bold('Success'));
-//console.log(process.argv[2]);
-// const fs = require('fs') //here fs in '' is the node module
-// fs.writeFileSync('notes.txt','my name is usmi')
-// fs.appendFileSync('notes.txt','\nappend data')
-//const validator = require('validator')
-//console.log(validator.isURL('https://www.google.com'));
+
